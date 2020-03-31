@@ -1,0 +1,6 @@
+A brief about jenkins pipeline concept.
+https://www.edureka.co/blog/jenkins-pipeline-tutorial-continuous-delivery
+
+jenkins pipeline concept and a simple jenkins pipeline job example.
+https://www.youtube.com/watch?v=_fmX31VFbL8&list=LLM8H1msGtwtibpgkxJOIfAg&index=47
+https://www.youtube.com/watch?v=pts8zdHel5E
